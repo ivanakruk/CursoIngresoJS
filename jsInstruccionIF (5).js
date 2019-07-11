@@ -10,7 +10,9 @@ function mostrar()
     else if (edad>=18&&edad<100) //else if es otra condicion dentro del if
     {
     alert("No eres adolescente");
+    
 
+    }
 
     }
 
