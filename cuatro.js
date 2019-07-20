@@ -36,7 +36,7 @@ function mostrar()
     }  
    if(resultado<50)
     {
-        alert("La suma es "+resultado+" y es menor a 50");
+        resultado=numA+numB+(" es el y es menor a 50");
     }
 alert(resultado);
 
